@@ -3,7 +3,7 @@ Get location and weather sent to you via SMS
 
 This needs an ASI key from openweathermap.org and a twilio account. 
 
-https://openweathermap.org/
+https://openweathermap.org/  
 https://www.twilio.com/
 
 To-Do
